@@ -1,0 +1,37 @@
+.bg-container {
+  background-color: #fff1eb;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.inputstyle {
+  width: 375px;
+  height: 50px;
+  outline: none;
+  margin-left: 65px;
+}
+.inputc {
+  display: flex;
+
+  height: 50px;
+  justify-content: center;
+}
+.imgsize {
+  height: 50px;
+  width: 50px;
+}
+.listcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  font-size: 25px;
+}
+.container {
+  display: flex;
+  flex-wrap:wrap;
+}

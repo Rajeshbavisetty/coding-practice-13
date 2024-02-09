@@ -1,0 +1,19 @@
+.appcontainer {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  border-radius: 6px;
+  margin-right: 10px;
+  margin-bottom: 6px;
+}
+.imgsize1 {
+  height: 50px;
+  width: 50px;
+}
+.header1 {
+  font-size: 15px;
+}

@@ -1,0 +1,15 @@
+.paragraph {
+  color: black;
+  font-size: 25px;
+}
+.container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.borderstyle {
+  border-bottom: blue;
+  border-style:solid;
+  border-width:2px;
+}
+
